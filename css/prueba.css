@@ -1,0 +1,54 @@
+h1 {
+	text-align: center;
+	 font-size: 40px;
+	 border-style: solid;
+}
+
+body {
+	background-color: #008B8B
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	background-color: #A52A2A;
+	color: white;
+}
+
+table {
+	width: 100%;
+}
+
+th, td {
+	padding: 5px;
+	text-align: center;    
+}
+
+
+div {
+	background-color: white;
+	text-align: center
+}
+
+.lista {
+	 font-size: 20px;
+}
+
+.cuerpo {
+	font-style: oblique;
+}
+
+a {
+	color: #FF0000;
+	background-color:red;
+    color: white;
+    padding: 14px 25px;
+    text-align: center; 
+    text-decoration: none;
+    display: inline-block;
+    border-style: solid;
+}
+
+.prelista {
+	 font-size: 20px;
+}
